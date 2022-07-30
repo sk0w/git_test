@@ -1,2 +1,5 @@
-new text
+push day
+pull day
 legs  day
+rest
+best programe
